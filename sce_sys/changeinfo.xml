@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+   <changes app_ver="01.00">
+     <![CDATA[
+- Initial Release (only on PSP)<br>
+     ]]>
+  </changes>
+  <changes app_ver="02.00">
+   <![CDATA[
+New:<br>
+- Color mode<br>
+- Recto Mode for Black & White and Color<br>
+- Statistics at the end of the game<br>
+- The shapes captured have now a particle effect<br>
+- Pause Menu<br>
+- Compatible for PSVita & PSTV<br>
+- Add cool stuff for PSTV (rumble & lightbar)<br>
+- This changelog is also available in PSVita/PSTV<br>
+<br>
+Modification:<br>
+- The difficulties are now progressive for Black & White mode.<br>
+- Change default PSP font with Ubuntu-Font<br>
+- Credits modification<br>
+- Options modification<br>
+- Change Save system<br>
+- Bugs correction<br>
+- Controls change depending on device<br>
+- Remove tutorial<br>
+   ]]>
+ </changes>
+</changeinfo>
